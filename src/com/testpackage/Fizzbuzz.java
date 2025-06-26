@@ -21,6 +21,7 @@ public class Fizzbuzz {
             System.out.println("FizzBuzz");
             // We can write statements in IF statement without curly brackets.
 
+
         else if (number % 5==0)
             System.out.println("Fizz");
 
