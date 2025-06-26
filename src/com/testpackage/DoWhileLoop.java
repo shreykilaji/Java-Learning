@@ -1,11 +1,12 @@
+//exercise for do-while loop,
+//Take UserInput until user provide quit as an input.
 package com.testpackage;
-
 import java.util.Scanner;
 
 public class DoWhileLoop {
     public static void main (String [] args){
         Scanner scanner= new Scanner(System.in);
-        String input="";
+        String input ="";
 
         do{
             System.out.print("User Input: ");
