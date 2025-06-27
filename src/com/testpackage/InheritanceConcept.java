@@ -13,7 +13,7 @@ class Animal{
 }
 
 //now creating child class 'Dog' extending methods of parent class 'Animal using 'extends' keyword
-class Dog extends Animal{
+class Dog extends Animal {
     // method of child class
     void bark(){
         System.out.println("Dog is barking");
