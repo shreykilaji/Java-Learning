@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.errorhandling;
 
 //Try Catch concept with finally statement for exception handling
 public class TryCatchConcept {

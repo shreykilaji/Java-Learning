@@ -1,8 +1,7 @@
-package com.testpackage;
+package com.testpackage.filehandling;
 
 import java.io.File; //import 'File' class from 'java.io' package.
-import java.io.IOException; //Import 'IOException' class from 'java.io' package to handle error.
-import java.sql.SQLOutput;
+
 
 public class FileHandlingCreateFile {
     public static void main(String[] args){

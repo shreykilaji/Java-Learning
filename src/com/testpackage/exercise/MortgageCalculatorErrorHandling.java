@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.exercise;
 
 import java.text.NumberFormat;
 import java.util.Scanner;

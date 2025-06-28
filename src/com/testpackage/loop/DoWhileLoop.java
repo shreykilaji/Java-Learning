@@ -1,6 +1,6 @@
 //exercise for do-while loop,
 //Take UserInput until user provide quit as an input.
-package com.testpackage;
+package com.testpackage.loop;
 import java.util.Scanner;
 
 public class DoWhileLoop {

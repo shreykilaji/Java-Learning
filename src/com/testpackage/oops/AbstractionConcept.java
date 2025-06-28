@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.oops;
 
 // Abstract class representing a vehicle (hiding implementation details)
 abstract class Vehicle {

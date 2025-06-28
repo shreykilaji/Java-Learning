@@ -1,5 +1,5 @@
 // we have three item in Array we try to print using for each loop
-package com.testpackage;
+package com.testpackage.loop;
 
 public class ForEachLoop {
     public static void main (String[] args) {

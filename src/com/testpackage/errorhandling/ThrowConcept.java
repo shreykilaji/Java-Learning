@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.errorhandling;
 
 import java.util.Scanner;
 

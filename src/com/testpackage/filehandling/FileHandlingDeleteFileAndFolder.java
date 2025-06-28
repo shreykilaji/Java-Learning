@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.filehandling;
 
 import java.io.File;
 

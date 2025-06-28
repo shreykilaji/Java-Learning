@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.oops;
 
 //Parent Class with makeSound() method
 class AnimalTest {

@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.oops;
 
 //created class with same name methods with different number and types of parameters
 

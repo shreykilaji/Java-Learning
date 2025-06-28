@@ -2,7 +2,7 @@
  Then we create Obj of FileWriter Class & use write() method to write in File.
  after successfully writing we need to close the file using close() method to close file.
 */
-package com.testpackage;
+package com.testpackage.filehandling;
 
 import java.io.FileWriter; //import 'FileWriter' class from 'java.io' package.
 

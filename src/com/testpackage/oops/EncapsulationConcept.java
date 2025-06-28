@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.oops;
 
 
 //Creating class which include private variable and public class(to access private variable

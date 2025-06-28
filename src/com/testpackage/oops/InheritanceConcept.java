@@ -1,4 +1,4 @@
-package com.testpackage;
+package com.testpackage.oops;
 
 
 // creating parent class Animal
