@@ -5,9 +5,9 @@
 package com.testpackage;
 
 import java.io.FileWriter; //import 'FileWriter' class from 'java.io' package.
-import java.io.IOException; //Import 'IOException' class from 'java.io' package to handle error.
 
-public class WriteToFile {
+
+public class FileHandlingWriteToFile {
     public static void main (String[] args){
 
         try{
