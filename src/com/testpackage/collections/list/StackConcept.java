@@ -1,4 +1,4 @@
-package com.testpackage.collections;
+package com.testpackage.collections.list;
 
 //import Stack class of java.util package to implement stack.
 import java.util.Stack;

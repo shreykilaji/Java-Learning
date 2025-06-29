@@ -1,4 +1,4 @@
-package com.testpackage.collections;
+package com.testpackage.collections.queue;
 
 /*We can Implement Queue Interface using LinkedList Class
  import Queue in code

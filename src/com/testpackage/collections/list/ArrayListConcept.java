@@ -1,4 +1,4 @@
-package com.testpackage.collections;
+package com.testpackage.collections.list;
 
 import java.util.ArrayList;
 public class ArrayListConcept {
