@@ -1,18 +1,20 @@
 package com.testpackage.collections.set;
 
-import java.util.HashSet;
+//LinkedHashSet store unique elements in Set, but in order.
+
+import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class hashSetConcept {
+public class LinkedHashSetConcept {
     public static void main(String[] args){
 
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new LinkedHashSet<>();
 
         //adding values in Set
-        set.add(20);
-        set.add(40);
+        set.add(21);
+        set.add(42);
         set.add(35);
-        set.add(55);
+        set.add(60);
         System.out.println(set);
 
         //Remove element from Set
