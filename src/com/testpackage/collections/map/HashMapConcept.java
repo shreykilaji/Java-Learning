@@ -30,5 +30,8 @@ public class HashMapConcept {
         System.out.println(numbers.containsKey("One")); //checking based on Key that is passed.
         System.out.println(numbers.containsValue(8)); //checking based on Value that is passed.
 
+        // to remove key-value pair from map
+        numbers.remove("Five",5);
+        System.out.println(numbers);
     }
 }
